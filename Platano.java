@@ -1,6 +1,4 @@
-public class Platano implements Cloneable {
+public class Platano {
     public Platano() {}
-    public Object clone() {
-        return new Platano();
-    }
+    
 }

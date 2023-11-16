@@ -1,6 +1,4 @@
-public class Durazno implements Cloneable {
+public class Durazno {
     public Durazno() {}
-    public Object clone() {
-        return new Durazno();
-    }
+    
 }

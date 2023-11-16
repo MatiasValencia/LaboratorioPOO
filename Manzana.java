@@ -1,6 +1,4 @@
-public class Manzana implements Cloneable {
+public class Manzana {
     public Manzana() {}
-    public Object clone() {
-        return new Manzana();
-    }
+    
 }

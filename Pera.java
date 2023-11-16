@@ -1,6 +1,4 @@
-public class Pera implements Cloneable {
+public class Pera {
     public Pera() {}
-    public Object clone() {
-        return new Pera();
-    }
+    
 }

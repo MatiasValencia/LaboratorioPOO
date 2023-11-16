@@ -1,6 +1,4 @@
-public class Naranja implements Cloneable {
+public class Naranja {
     public Naranja() {}
-    public Object clone() {
-        return new Naranja();
-    }
+    
 }
